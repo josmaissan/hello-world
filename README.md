@@ -1,2 +1,5 @@
 # hello-world
-repository for testing/learning GitHub
+Repository for testing/learning GitHub.
+I am learning to help bootstrap a little furter.
+Greetings from The Netherlands!
+@josmaissan What do you think of it? :+1:
